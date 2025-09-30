@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF00,50:000000,100:9400D3&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00FF00,50:000000,100:9400D3&reversal=false"/>
 
 <h1 align="center">ERROR 404 - Associação Atlética Acadêmica de Engenharia e Tecnologia da UNA</h1>
 
@@ -48,7 +48,7 @@ Quer trocar ideias, tirar dúvidas ou simplesmente bater um papo sobre tecnologi
 Nossos canais estão sempre abertos para você:  
 
 <p align="left">
-  <a href="https://discord.gg/seu-link-aqui" target="_blank">
+  <a href="https://discord.gg/Qnc8F9UQ7C" target="_blank">
     <br>
     <img src="https://img.shields.io/badge/Discord-Entrar_no_Servidor-32CD32?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1917" alt="Discord"/>
   </a>
@@ -69,4 +69,4 @@ Se você é apaixonado por tecnologia, esse é o seu lugar.
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF00,50:000000,100:9400D3&reversal=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00FF00,50:000000,100:9400D3&reversal=false&section=footer"/>
