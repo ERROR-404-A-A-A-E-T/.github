@@ -48,7 +48,7 @@ Quer trocar ideias, tirar dúvidas ou simplesmente bater um papo sobre tecnologi
 Nossos canais estão sempre abertos para você:  
 
 <p align="left">
-  <a href="https://discord.gg/Qnc8F9UQ7C" target="_blank">
+  <a href="https://discord.gg/4rPngS6yKt" target="_blank">
     <br>
     <img src="https://img.shields.io/badge/Discord-Entrar_no_Servidor-32CD32?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1917" alt="Discord"/>
   </a>
